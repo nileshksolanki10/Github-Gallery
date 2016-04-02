@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.boxHelper
+{
+	color: #fff;
+	background-color:#000;
+	text-align:center; 
+}
+
+#white
+{
+	background-color:rgba(255,255,255,0.4);
+
+}
+
+/*.row [class*="-"]*/ /*for assisting in boxed layout*/	
+/*advanced selector, target elements with class of row, using decendant selector, 
+then target an elements who's class starts with grid_ */								
+/*{ 
+background-color:#666;
+margin-bottom: 10px;
+}
+*/
